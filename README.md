@@ -139,13 +139,7 @@ streamlit run frontend.py
 
 ---
 
-### 📈 Results
 
-| Model               | Accuracy | F1 Score |
-| ------------------- | -------- | -------- |
-| Logistic Regression | 86%      | 0.84     |
-| Random Forest       | 89%      | 0.87     |
-| SVM                 | 88%      | 0.86     |
 
 ---
 
@@ -160,8 +154,8 @@ streamlit run frontend.py
 
 ### 👨‍💻 Authors
 
-* **Mohammed Bilal** – ML & Backend
-* **Team Bilalinbytes** – Data collection & Frontend
+* **Mohammed Bilal,Mayan** – ML & Backend
+  
 
 ---
 
